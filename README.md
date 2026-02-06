@@ -27,15 +27,16 @@ Una os textos processados em arquivos .txt, separados por sentimento.
 📂 Estrutura do Projeto
 PYTHON-IA/
 │
-├── chamada-ao-llm.py        # Script principal do pipeline
-├── mini-pipeline.py        # Versão simplificada / experimental
-├── Resenhas.txt             # Arquivo de entrada (resenhas brutas)
-├── resenhas.csv             # Dados processados (persistência)
-├── positivas.txt            # Resenhas positivas agregadas
-├── negativas.txt            # Resenhas negativas agregadas
-├── neutras.txt              # Resenhas neutras agregadas
-├── venv/                    # Ambiente virtual
-└── README.md                # Documentação do projeto
+├── chamada-ao-llm.py      # Script principal do pipeline
+├── mini-pipeline.py      # Versão simplificada / experimental
+├── Resenhas.txt          # Arquivo de entrada (resenhas brutas)
+├── resenhas.csv          # Dados processados (persistência)
+├── positivas.txt         # Resenhas positivas agregadas
+├── negativas.txt         # Resenhas negativas agregadas
+├── neutras.txt           # Resenhas neutras agregadas
+├── venv/                 # Ambiente virtual
+└── README.md             # Documentação do projeto
+
 
 📄 Formato do Arquivo de Entrada (Resenhas.txt)
 
